@@ -1,4 +1,4 @@
-#Facial Emotion Detection 
+# Facial Emotion Detection 
 
 Welcome to the Emotion Detection Project! This project helps recognize emotions from images using machine learning. Follow these simple steps to use it:
 
